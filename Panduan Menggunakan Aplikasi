@@ -1,2 +1,24 @@
 Cara Menggunakan Aplikasi AGE CALCULATOR
 1. Extract file bacaAngkaGanjil.zip
+2. Buka folder dist. Pada folder ini terdapat folder lib dan file bacaAngkaGanjil.jar
+3. Lalu klik 2x file bacaAngkaGanjil.jar
+4. Tekan tombol "Masukkan Angka Ganjil" untuk memasukkan angka
+5. Akan muncul input dialog. Kemudian masukkan angka yang diinginkan
+6. Jika dimasukkan angka genap, akan muncul message dialog "Angka yang anda masukkan adalah angka genap.MOHON MASUKKAN ANGKA GANJIL!"
+7. Jika dimasukkan angka ganjil, akan muncul message dialog "Benar!!! Angka ini ganjil". Lalu akan muncul kalimat baru
+   "Angka yang anda masukkan adalah (angka). (angka) adalah angka GANJIL"
+8. Pada kiri bawah terdapat tombol RESET yang digunakan untuk mereset data yang sudah dimasukkan. Jika ditekan akan muncul confirm dialog "Reset data?"
+9. Jika memilih yes, maka data akan di-reset. Kemudian akan muncul message dialog baru "data di-reset"
+10. Jika memilih no, maka data tidak akan di-reset. Kemudian akan muncul message dialog baru "data tidak di-reset"
+11. Jika memilih cancel, maka akan menutup confirm dialog
+12. Pada kanan bawah terdapat tombol info yang jika ditekan akan memunculkan message dialog "Aplikasi ini dibuat bertujuan untuk memenuhi
+    Tugas pertemuan 5 mata kuliah Desktop Pemrograman. Aplikasi ini dibuat oleh Nama : Muhammad Izzudin NIM    : 32602000047 Kelas  : TIF B"
+    
+    
+
+
+Nama  : Muhammad Izzudin
+NIM   : 32602000047
+Kelas : TIF B
+
+Terimakasih...
