@@ -1,4 +1,4 @@
-# TugasPertemuan5
+# Tugas Pertemuan 5
 Aplikasi ini dibuat bertujuan untuk memenuhi Tugas pertemuan 5 mata kuliah Desktop Pemrograman.
 Terdapat :
 1. file bacaAngkaGanjil.zip yang dapat diextract dan dibuka di netbeans. 
